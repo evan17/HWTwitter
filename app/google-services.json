@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "709771662043",
+    "firebase_url": "https://hwtwitter-3a065.firebaseio.com",
+    "project_id": "hwtwitter-3a065",
+    "storage_bucket": "hwtwitter-3a065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709771662043:android:fa6fd671371278d6",
+        "android_client_info": {
+          "package_name": "com.example.zhihao.hwtwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709771662043-ls7snsgs736uvvfar14a6lqvajbl7rb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWAZyoLQ3pZ3HxMGCROvSvFovJh7kkQLE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
